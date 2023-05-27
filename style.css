@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#object
+{
+    width: 30%;
+}
+
+.heading
+{
+    width: 70%;
+    margin: 0px;
+    font-size: 23px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px rgb(87, 14, 127);
+    border-radius: 10px;
+    margin-top: 30px;
+}
